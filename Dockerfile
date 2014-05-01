@@ -12,3 +12,4 @@ RUN apt-get install -y python-software-properties
 
 RUN apt-get install -y python3.3
 RUN apt-get install -y python3.3-dev
+RUN apt-get install -y python3-pip
